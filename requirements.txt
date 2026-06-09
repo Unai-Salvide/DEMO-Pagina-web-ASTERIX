@@ -1,0 +1,13 @@
+# ── Web app ───────────────────────────────────────────────────────────────────
+streamlit
+plotly
+
+# ── Optimisation ──────────────────────────────────────────────────────────────
+pypsa
+linopy          # PyPSA's modelling backend (installed with pypsa, listed explicitly)
+highspy         # HiGHS solver Python bindings (used via solver_name='highs')
+
+# ── Numerics / data ───────────────────────────────────────────────────────────
+pandas
+numpy
+numpy-financial
