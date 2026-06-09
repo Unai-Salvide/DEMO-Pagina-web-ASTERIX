@@ -30,7 +30,7 @@ LOADING_ANIMATION = """
 <div id="csp-overlay" style="
     position: fixed;
     top: 0; left: 0;
-    width: width: 100vw; height: 100vh;
+    width: 100vw; height: 100vh;
     background: rgba(248,249,250,0.88);
     display: flex;
     flex-direction: column;
