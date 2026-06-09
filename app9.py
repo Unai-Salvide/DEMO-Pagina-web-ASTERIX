@@ -29,8 +29,8 @@ st.markdown("""
 LOADING_ANIMATION = """
 <div id="csp-overlay" style="
     position: fixed;
-    top: 0; left: 0;
-    width: 100vw; height: 100vh;
+    top: 0; left: 260px;
+    width: width: calc(100vw - 260px); height: 100vh;
     background: rgba(248,249,250,0.88);
     display: flex;
     flex-direction: column;
